@@ -3907,3 +3907,25 @@ input, select, textarea {
 			}
 
 		}
+
+/* Title-only technical area cards */
+
+.features.skills-only section {
+	min-height: 9em;
+	padding-top: 3.25em;
+	padding-bottom: 2.5em;
+	display: flex;
+	align-items: center;
+}
+
+.features.skills-only section h3 {
+	margin: 0;
+}
+
+.features.skills-only section .icon {
+	top: 2.8em;
+}
+
+.learning-title {
+	margin-top: 2em;
+}
